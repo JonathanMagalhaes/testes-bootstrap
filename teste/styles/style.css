@@ -27,6 +27,23 @@ header a{
     background-color: #da1d81;
 }
 
+.bg-int{
+    background-color: #9bddff;
+}
+
+.bg-nac{
+    background-image: url("/teste/src/img/br.png");
+}
+
+#text{
+    color: black;
+}
+
+.selected{
+    color: #1d2951;
+    cursor: pointer;
+}
+
 .blog-post a{
     text-decoration: none;
     color: #3b444b;
