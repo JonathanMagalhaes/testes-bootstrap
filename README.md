@@ -8,6 +8,7 @@ Páginas 70% concluídas:
 Páginas 10% Concluídas:
  - Internacional
  - Nacional
+ - Tecnologia
 
 Páginas 0% ~ 5% Concluídas:
  - Design
@@ -16,4 +17,3 @@ Páginas 0% ~ 5% Concluídas:
  - Ciência
  - Saúde
  - Negócios
- - Tecnologia
