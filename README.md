@@ -17,3 +17,6 @@ Páginas 0% ~ 5% Concluídas:
  - Ciência
  - Saúde
  - Negócios
+
+Projeto criado por Jonathan Magalhães Baião https://www.github.com/jonathanmagalhaes
+Não permito a cópia ou uso para fins próprios que não estudo o uso deste projeto.
